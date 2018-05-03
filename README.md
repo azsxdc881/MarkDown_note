@@ -20,8 +20,8 @@ HI 這是阿亞的測試網頁，紀錄markdown的小筆記
 </p>
 
 ### 圖片公式
-`![GitHub Logo](/images/logo.png)
-`Format: ![Alt Text](url)
+>![GitHub Logo](/images/logo.png)
+>Format: ![Alt Text](url)
 
 ### 試試看放圖片
 ![Cute_Dog](https://images.unsplash.com/photo-1517840815742-3b666760d5e0?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=ad7d6f0472ed62a0e27e2aa2435a724a&auto=format&fit=crop&w=1350&q=80)
