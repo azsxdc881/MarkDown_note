@@ -27,14 +27,28 @@ Format: ![Alt Text](url)
 ![Cute_Dog](https://images.unsplash.com/photo-1517840815742-3b666760d5e0?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=ad7d6f0472ed62a0e27e2aa2435a724a&auto=format&fit=crop&w=1350&q=80)
 
 # 試試看小栗子
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <title>Example</title>
+  <script src="https://cdn.bootcss.com/marked/0.3.6/marked.min.js"></script>
+</head>
+<body>
+  <div id="content"></div>
+  <script>
 $.ajax({
 　　url: "https://api.github.com/repos/tinyallen/blog/issues/1",
 　　type: "GET",
 　　dataType:'json',
 　　success:function(data){
-　　   console.log(data);
+　　   document.getElementById('content').innerHTML =
+      marked(data.body);
    },
 　　error:function(err){
 　　   console.log(err);
    }
 });
+  </script> 
+</body>
+</html>
