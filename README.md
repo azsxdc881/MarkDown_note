@@ -45,6 +45,4 @@ ____________
 *斜斜的*
 ~~被刪掉惹~~
 ### 置入影片
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=EEMwA8KZAqg" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 ![AM](http://img.youtube.com/vi/EEMwA8KZAqg/0.jpg)](http://www.youtube.com/watch?v=EEMwA8KZAqg)
-
