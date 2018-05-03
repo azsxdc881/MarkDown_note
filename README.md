@@ -29,3 +29,18 @@ Format: ![Alt Text](url)`
 [點我看小狗狗原圖](https://images.unsplash.com/photo-1517840815742-3b666760d5e0?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=ad7d6f0472ed62a0e27e2aa2435a724a&auto=format&fit=crop&w=1350&q=80)
 ### 字串中參雜超連結
 從前有一隻[阿柴](https://images.gamme.com.tw/news2/2017/63/79/qZqaoaKZkp_dqaQ.jpg) 他胖胖的
+### 條列項目
++ A
++ B
+- C
+* D
+1. HI
+2. YA
+水平線
+***************  ____________ -----
+### 粗體、斜體、刪除線
+**粗粗的**
+*斜斜的*
+~~被刪掉惹~~
+### 置入影片
+<iframe src="https://www.youtube.com/watch?v=EEMwA8KZAqg" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
