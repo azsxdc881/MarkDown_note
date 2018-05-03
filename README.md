@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Welcome to Aya Pages
+HI 這是阿亞的測試網頁
+首先是建立表格
+<table border="1">
+　<tr>
+　<td>這裡是第一行的第一個欄位</td>
+　<td>這裡是第一行的第二個欄位</td>
+　</tr>
+　<tr>
+　<td>這裡是第二行的第一個欄位</td>
+　<td>這裡是第二行的第二個欄位</td>
+　</tr>
+</table>
 
-You can use the [editor on GitHub](https://github.com/azsxdc881/MD/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+  <p>
+    雖然現在下著雨，不代表要去的地方沒有陽光。<br>
+    The path is not the destination. Even if it rains now, doesn’t mean it isn’t sunny up ahead. <br>
+    <small align="right">- 風起 (Kaze tachinu)</small>
+  </p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+圖片公式
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 
-### Markdown
+試試看放圖片
+![Cute_Dog](https://images.unsplash.com/photo-1517840815742-3b666760d5e0?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=ad7d6f0472ed62a0e27e2aa2435a724a&auto=format&fit=crop&w=1350&q=80)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/azsxdc881/MD/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
