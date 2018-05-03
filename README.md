@@ -47,5 +47,17 @@ ____________
 ### 置入影片
 [![AM](http://img.youtube.com/vi/EEMwA8KZAqg/0.jpg)](http://www.youtube.com/watch?v=EEMwA8KZAqg)
 
-### 再試試看
+### 置入影片2
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/ARwVe1MYAUA/0.jpg)](https://www.youtube.com/embed/ARwVe1MYAUA "CameraMaster")
+
+### 置入影片3
+<div style="max-width:640px; margin:0 auto 10px;" >
+<div 
+style="position: relative; 
+width:100%;
+padding-bottom:56.25%; 
+height:0;">
+<iframe style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;"src="https://www.youtube.com/embed/ARwVe1MYAUA" frameborder="0" allowfullscreen></iframe>
+</div>
+</div>
+
