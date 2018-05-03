@@ -28,5 +28,6 @@ Format: ![Alt Text](url)`
 ### 點擊式的超連結
 [點我看小狗狗原圖](https://images.unsplash.com/photo-1517840815742-3b666760d5e0?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=ad7d6f0472ed62a0e27e2aa2435a724a&auto=format&fit=crop&w=1350&q=80)
 ### 字串中參雜超連結
-從前有一隻[阿柴][1]他胖胖的
-[1]: https://images.gamme.com.tw/news2/2017/63/79/qZqaoaKZkp_dqaQ.jpg
+從前有一隻[阿柴] [1] 他胖胖的
+
+[1]: https://images.gamme.com.tw/news2/2017/63/79/qZqaoaKZkp_dqaQ.jpg   "胖子圖"
