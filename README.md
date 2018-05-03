@@ -37,11 +37,14 @@ Format: ![Alt Text](url)`
 1. HI
 2. YA
 ## 水平線
-***************  ____________ -----
+***************
+____________
+-----
 ### 粗體、斜體、刪除線
 **粗粗的**
 *斜斜的*
 ~~被刪掉惹~~
 ### 置入影片
 <iframe width="420" height="315" src="https://www.youtube.com/watch?v=EEMwA8KZAqg" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+![AM](http://img.youtube.com/vi/EEMwA8KZAqg/0.jpg)](http://www.youtube.com/watch?v=EEMwA8KZAqg)
 
