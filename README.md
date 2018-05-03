@@ -45,4 +45,4 @@ ____________
 *斜斜的*
 ~~被刪掉惹~~
 ### 置入影片
-![AM](http://img.youtube.com/vi/EEMwA8KZAqg/0.jpg)](http://www.youtube.com/watch?v=EEMwA8KZAqg)
+[![AM](http://img.youtube.com/vi/EEMwA8KZAqg/0.jpg)](http://www.youtube.com/watch?v=EEMwA8KZAqg)
