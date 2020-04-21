@@ -51,5 +51,4 @@ ____________
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/ARwVe1MYAUA/0.jpg)](https://www.youtube.com/embed/ARwVe1MYAUA "CameraMaster")
 
 ### 置入影片3
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ARwVe1MYAUA" frameborder="0" allowfullscreen></iframe>
-
+[![](http://img.youtube.com/vi/ARwVe1MYAUA/0.jpg)](http://www.youtube.com/watch?v=ARwVe1MYAUA "")
