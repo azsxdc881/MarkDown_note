@@ -1,6 +1,6 @@
 
 ## Welcome to Aya Pages
-HI 這是阿亞的測試網頁，紀錄markdown的小筆記
+HI 這是測試網頁，紀錄markdown的基本功能
 ### 首先是建立表格
 <table border="1">
 　<tr>
