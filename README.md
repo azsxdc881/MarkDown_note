@@ -1,7 +1,7 @@
 
 ## Welcome to Aya Pages
 HI 這是測試網頁，紀錄markdown的基本功能
-### 首先是建立表格
+### 建立表格
 <table border="1">
 　<tr>
 　<td>這裡是第一行的第一個欄位</td>
@@ -47,8 +47,8 @@ ____________
 ### 置入影片
 [![AM](http://img.youtube.com/vi/EEMwA8KZAqg/0.jpg)](http://www.youtube.com/watch?v=EEMwA8KZAqg)
 
-### 置入影片2
+### 置入影片2 新分頁開啟影片的狀態
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/ARwVe1MYAUA/0.jpg)](https://www.youtube.com/embed/ARwVe1MYAUA "CameraMaster")
 
-### 置入影片3
+### 置入影片3 超連結至youtube
 [![](http://img.youtube.com/vi/ARwVe1MYAUA/0.jpg)](http://www.youtube.com/watch?v=ARwVe1MYAUA "")
