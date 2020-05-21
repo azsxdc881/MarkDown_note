@@ -52,3 +52,14 @@ ____________
 
 ### 置入影片3 超連結至youtube
 [![](http://img.youtube.com/vi/ARwVe1MYAUA/0.jpg)](http://www.youtube.com/watch?v=ARwVe1MYAUA "")
+
+### 區塊程式碼測試
+```
+for (let i =0; i<10; i++){
+    setTimeout(function(){
+        console.log('執行次數第'+i+'次');
+    },0);
+    } 
+```
+
+
